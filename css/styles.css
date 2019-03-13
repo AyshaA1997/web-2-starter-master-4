@@ -1,12 +1,19 @@
 /*
   DIAGNOSTIC STYLING
 */
-body {
+/* body {
   background: gray;
-}
-
-* {
-  outline: 1px dotted black;
-}
+} */
 
 /* Your Awesome Scripts */
+#tab-1{
+    background: pink;
+}
+
+#tab-2{
+  background: purple;
+}
+
+#tab-3{
+  background: teal;
+}
