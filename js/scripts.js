@@ -2,3 +2,5 @@
 console.log('OK');
 
 // Your Awesome Scripts
+
+$('.tabs').tabslet();
